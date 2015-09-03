@@ -20,3 +20,9 @@ body {
 .wireframe h1 {
 	font-weight: 100;
 }
+
+.wireframe #book-title { height: 5em; }
+.wireframe #synopsis   { height: 30em; }
+.wireframe #purchase   { height: 20em; }
+.wireframe #resources  { height: 50em; }
+.wireframe #errata     { height: 40em; }

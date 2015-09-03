@@ -6,4 +6,11 @@ body {
 .wireframe section {
 	background-color: whitesmoke;
 	border: 1px solid gainsboro;
+	font: small sans-serif;
+	text-align: center;
+	color: silver;
+}
+
+.wireframe h1 {
+	font-weight: 100;
 }

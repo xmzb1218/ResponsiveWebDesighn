@@ -16,15 +16,25 @@ body {
 	border: 1px solid gainsboro;
 	font: small sans-serif;
 	text-align: center;
-	color: silver;
+	color: gray;
+	margin: 1em;
+}
+
+.wireframe .menu {
+	position: absolute;
+	top: 0;
+	right: 0;
+	background-color: gainsboro;
+	padding: 0.5em;
 }
 
 .wireframe h1 {
 	font-weight: 100;
 }
 
-.wireframe #book-title { height: 5em; }
-.wireframe #synopsis   { height: 30em; }
-.wireframe #purchase   { height: 20em; }
-.wireframe #resources  { height: 50em; }
-.wireframe #errata     { height: 40em; }
+.wireframe #book-title	{ height: 5em; }
+.wireframe #synopsis	{ height: 30em; }
+.wireframe #purchase	{ height: 20em; }
+.wireframe #resources	{ height: 50em; }
+.wireframe #errata		{ height: 40em; }
+.wireframe nav			{ height: 10em; }

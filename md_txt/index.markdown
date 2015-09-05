@@ -22,8 +22,12 @@ Responsive Design Workflow is available in paperback or as an e-book. The book i
 
 ## Resources
 
-[Lists of resources per chapter?]
+* [Chapter 1](http://www.example.com/resources/chapter1)
+* [Chapter 2](http://www.example.com/resources/chapter2)
+* [Chapter 3](http://www.example.com/resources/chapter3)
 
 ## Errata
 
-[Lists of errata per chapter?]
+* [Chapter 1](http://www.example.com/errata/chapter1)
+* [Chapter 2](http://www.example.com/errata/chapter2)
+* [Chapter 3](http://www.example.com/errata/chapter3)
